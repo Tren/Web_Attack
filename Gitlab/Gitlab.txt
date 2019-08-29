@@ -1,0 +1,4 @@
+http://gitlab.xxxxx.com/explore/projects		-- 列出所有项目
+http://gitlab.xxxxx.com/user_name/project_name/activity		-- 列出所有活动
+http://gitlab.xxxxx.com/user_name.atom		-- 列出所有Gitlab用户的邮箱
+http://gitlab.xxxxx.com/users/sign_in		--爆破加社工
