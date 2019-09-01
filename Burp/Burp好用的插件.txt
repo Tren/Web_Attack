@@ -1,0 +1,2 @@
+https://github.com/PortSwigger/backslash-powered-scanner	    -- 'experimental folder attacks'.
+https://github.com/federicodotta/Java-Deserialization-Scanner 	-- Java Deserialization Scanner
