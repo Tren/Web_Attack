@@ -1,0 +1,5 @@
+查看用户名
+http://www.xxxxxxxxxxx.com/_layouts/UserDisp.aspx?ID=1
+查看所有用户名
+http://www.xxxxxxxxxxx.com/_layouts/people.aspx?MembershipGroupId=0&FilterField1=ContentType&FilterValue1=Person
+
