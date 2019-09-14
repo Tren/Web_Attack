@@ -1,2 +1,3 @@
 https://github.com/PortSwigger/backslash-powered-scanner	    -- 'experimental folder attacks'.
 https://github.com/federicodotta/Java-Deserialization-Scanner 	-- Java Deserialization Scanner
+https://github.com/PortSwigger/http-request-smuggler          -- HTTP Request Smuggler
