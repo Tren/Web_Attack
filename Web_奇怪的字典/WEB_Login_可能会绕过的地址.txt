@@ -1,0 +1,6 @@
+Login Page Authentication bypass:  Any file name / authorize
+
+account/connect/authorize 
+home/authorize
+dashboard/authorize
+account/authorize/
