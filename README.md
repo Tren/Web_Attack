@@ -12,3 +12,7 @@ http://mailtester.com/testmail.php
 
 https://groups.google.com/a/binance.com/forum/
 
+
+发现WEB-INF/web.xml，扩大攻击面
+
+https://gist.githubusercontent.com/harisec/519dc6b45c6b594908c37d9ac19edbc3/raw/af521a3c730d4a77660e91ed41f51725cb0bbde3/exploit_path_traversals_in_Java_webapps.txt
