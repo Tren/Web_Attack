@@ -4585,11 +4585,6 @@ zencart
 zend
 zero
 zeus
-zh
-zh_CN
-zh_TW
-zh-cn
-zh-tw
 zimbra
 zip
 zipfiles
@@ -4656,3 +4651,5 @@ account/connect/authorize
 home/authorize
 dashboard/authorize
 account/authorize/
+jolokia
+jolokia/list
