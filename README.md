@@ -31,3 +31,6 @@ lsadump::postzerologon /target:red.com /account:WIN-4MRAELMUJKS$
 利用BYOvD漏洞加载mimidiv 来绕过Lsass保护
 https://medium.com/@gorkemkaradeniz/defeating-runasppl-utilizing-vulnerable-drivers-to-read-lsass-with-mimikatz-28f4b50b1de5
 https://github.com/alxbrn/gdrv-loader  POC
+
+寻找后门设备！
+https://paper.seebug.org/1576/
