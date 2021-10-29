@@ -33,4 +33,10 @@ https://medium.com/@gorkemkaradeniz/defeating-runasppl-utilizing-vulnerable-driv
 https://github.com/alxbrn/gdrv-loader  POC
 
 寻找后门设备！
+
 https://paper.seebug.org/1576/
+
+
+"sec@smartservice.com.cn"
+"bfaec2da79d0955518c6beb581e09f47"
+
