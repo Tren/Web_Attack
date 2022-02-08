@@ -32,11 +32,17 @@ lsadump::postzerologon /target:red.com /account:WIN-4MRAELMUJKS$
 https://medium.com/@gorkemkaradeniz/defeating-runasppl-utilizing-vulnerable-drivers-to-read-lsass-with-mimikatz-28f4b50b1de5
 https://github.com/alxbrn/gdrv-loader  POC
 
-寻找后门设备！
-
-https://paper.seebug.org/1576/
-
-
 "sec@smartservice.com.cn"
 "bfaec2da79d0955518c6beb581e09f47"
+
+
+https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/
+
+https://github.com/nyxgeek/AzureAD_Autologon_Brute/blob/main/azuread_autologon_brute.py
+
+
+
+
+
+
 
