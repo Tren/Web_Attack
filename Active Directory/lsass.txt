@@ -1,0 +1,5 @@
+利用BYOvD漏洞加载mimidiv 来绕过Lsass保护 
+https://medium.com/@gorkemkaradeniz/defeating-runasppl-utilizing-vulnerable-drivers-to-read-lsass-with-mimikatz-28f4b50b1de5
+POC
+https://github.com/alxbrn/gdrv-loader 
+
