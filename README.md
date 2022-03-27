@@ -36,15 +36,6 @@ https://github.com/alxbrn/gdrv-loader  POC
 "bfaec2da79d0955518c6beb581e09f47"
 
 
-https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/
-
-https://github.com/nyxgeek/AzureAD_Autologon_Brute/blob/main/azuread_autologon_brute.py
-
-https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html
-
-https://github.com/LMGsec/o365creeper
-
-
 
 
 
