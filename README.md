@@ -18,8 +18,13 @@ https://groups.google.com/a/binance.com/forum/
 https://gist.githubusercontent.com/harisec/519dc6b45c6b594908c37d9ac19edbc3/raw/af521a3c730d4a77660e91ed41f51725cb0bbde3/exploit_path_traversals_in_Java_webapps.txt
 
 
-"sec@smartservice.com.cn"
-"bfaec2da79d0955518c6beb581e09f47"
+
+利用ipv6特性 绕过ip封锁
+
+https://www.cyberis.com/article/bypassing-ip-based-brute-force-protection-ipv6
+
+
+
 
 
 
