@@ -24,7 +24,8 @@ https://gist.githubusercontent.com/harisec/519dc6b45c6b594908c37d9ac19edbc3/raw/
 https://www.cyberis.com/article/bypassing-ip-based-brute-force-protection-ipv6
 
 
-
+Google Dork
+site:"target[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
 
 
 
