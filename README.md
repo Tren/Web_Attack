@@ -27,6 +27,8 @@ https://www.cyberis.com/article/bypassing-ip-based-brute-force-protection-ipv6
 Google Dork
 site:"target[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
 
+信息收集：
+https://api.certspotter.com/v1/issuances?domain=baidu.com&expand=dns_names
 
 
 
